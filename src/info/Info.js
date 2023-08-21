@@ -73,7 +73,7 @@ export const info = {
         },
         {
             title: "Note Taker Application",
-            live:"https://fathomless-shore-00999-99874d90faa8.herokuapp.com/",
+            live:"https://lit-mountain-77867-cef47f11c320.herokuapp.com/",
             image: NoteTaker
         }
     ]
