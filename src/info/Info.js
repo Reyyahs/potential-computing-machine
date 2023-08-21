@@ -17,7 +17,7 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/Reyyahs",
             icon: "fa fa-github",
             label: 'github'
         },
@@ -55,5 +55,23 @@ export const info = {
         }
 
     ],
+    portfolio: [
+        {
+            title: "First Ever Portfolio",
+            live: "https://reyyahs.github.io/glowing-garbanzo/",
+            source: "https://github.com/Reyyahs/glowing-garbanzo",
+            image: 
+        },
+        {
+            title: "Note Taker Application",
+            live: "https://github.com/Reyyahs/solid-guacamole",
+            image: 
+        },
+        {
+            title: "Furever Home Pet Adoption",
+            live:"https://fathomless-shore-00999-99874d90faa8.herokuapp.com/",
+            image: 
+        }
+    ]
 
 }
