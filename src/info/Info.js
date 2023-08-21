@@ -1,4 +1,7 @@
 import selfie1 from "../img/selfie1.png"
+import FirstPortfolio from "../components/img/FirstPortfolio.png"
+import NoterTaker from "../components/img/Note Taker.png"
+import FureverHome from "../components/img/Furever Home.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -60,17 +63,17 @@ export const info = {
             title: "First Ever Portfolio",
             live: "https://reyyahs.github.io/glowing-garbanzo/",
             source: "https://github.com/Reyyahs/glowing-garbanzo",
-            image: 
+            image: FirstPortfolio
         },
         {
             title: "Note Taker Application",
             live: "https://github.com/Reyyahs/solid-guacamole",
-            image: 
+            image: NoterTaker
         },
         {
             title: "Furever Home Pet Adoption",
             live:"https://fathomless-shore-00999-99874d90faa8.herokuapp.com/",
-            image: 
+            image: FureverHome
         }
     ]
 
