@@ -1,7 +1,7 @@
 import selfie1 from "../img/selfie1.png"
-import FirstPortfolio from "../components/img/FirstPortfolio.png"
-import NoterTaker from "../components/img/Note Taker.png"
-import FureverHome from "../components/img/Furever Home.png"
+import FirstPortfolio from "../img/FirstPortfolio.png"
+import NoterTaker from "../img/Note Taker.png"
+import FureverHome from "../img/Furever Home.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 

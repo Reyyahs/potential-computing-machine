@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.style.scss';
+import './components/';
 import Base from "./components/Base";
 import {BrowserRouter} from "react-router-dom";
 
