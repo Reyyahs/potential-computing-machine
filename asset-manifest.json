@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/potential-computing-machine/static/css/main.b3308297.css",
+    "main.js": "/potential-computing-machine/static/js/main.67c3f57e.js",
+    "static/media/Furever Home.png": "/potential-computing-machine/static/media/Furever Home.73091282a8f5a6629372.png",
+    "static/media/FirstPortfolio.png": "/potential-computing-machine/static/media/FirstPortfolio.7e18bd424eeada5c80f1.png",
+    "static/media/selfie1.png": "/potential-computing-machine/static/media/selfie1.582c18ddda4a685b7b77.png",
+    "static/media/Note Taker.png": "/potential-computing-machine/static/media/Note Taker.2e7b8c2e8d848f075860.png",
+    "index.html": "/potential-computing-machine/index.html",
+    "main.b3308297.css.map": "/potential-computing-machine/static/css/main.b3308297.css.map",
+    "main.67c3f57e.js.map": "/potential-computing-machine/static/js/main.67c3f57e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3308297.css",
+    "static/js/main.67c3f57e.js"
+  ]
+}
