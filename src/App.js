@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.style.scss'
+import './App.style.scss';
 import Base from "./components/Base";
 import {BrowserRouter} from "react-router-dom";
 
@@ -15,4 +15,3 @@ function App() {
 
 
 export default App;
-

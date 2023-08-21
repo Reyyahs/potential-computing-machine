@@ -1,7 +1,7 @@
 import selfie1 from "../img/selfie1.png"
-import FirstPortfolio from "../img/FirstPortfolio.png"
-import NoterTaker from "../img/Note Taker.png"
+import FirstPortflio from "../img/FirstPortfolio.png"
 import FureverHome from "../img/Furever Home.png"
+import NoteTaker from "../img/Note Taker.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -9,7 +9,7 @@ export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 export const info = {
     firstName: "Reagan",
     lastName: "Yang",
-    selfPortrait: selfie1, 
+    selfPortrait: selfie1,
     gradient: `-webkit-linear-gradient(135deg)`,
     baseColor: colors[0],
     socials: [
@@ -20,7 +20,7 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://github.com/Reyyahs",
+            link: "https://github.com",
             icon: "fa fa-github",
             label: 'github'
         },
@@ -63,18 +63,18 @@ export const info = {
             title: "First Ever Portfolio",
             live: "https://reyyahs.github.io/glowing-garbanzo/",
             source: "https://github.com/Reyyahs/glowing-garbanzo",
-            image: FirstPortfolio
+            image: FirstPortflio
+        },
+        {
+            title: "FureverHome: FullStack Project",
+            live:"https://fathomless-shore-00999-99874d90faa8.herokuapp.com/",
+            source:"https://github.com/mahlheim/curly-broccoli/tree/main",
+            image: FureverHome 
         },
         {
             title: "Note Taker Application",
-            live: "https://github.com/Reyyahs/solid-guacamole",
-            image: NoterTaker
-        },
-        {
-            title: "Furever Home Pet Adoption",
             live:"https://fathomless-shore-00999-99874d90faa8.herokuapp.com/",
-            image: FureverHome
+            image: NoteTaker
         }
     ]
-
 }

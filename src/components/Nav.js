@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Style from './Navbar.module.scss';
+import Style from './Nav.style.scss';
 import { Link } from 'react-router-dom';
 import { Box } from '@mui/material';
 import { info } from '../info/Info';

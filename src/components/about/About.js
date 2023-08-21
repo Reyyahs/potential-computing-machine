@@ -1,5 +1,5 @@
 import React from 'react';
-import Style from '../about/';
+import Style from './About.style.scss';
 import Window from './Window';
 import { Box } from '@mui/material';
 import { info } from '../../info/Info';

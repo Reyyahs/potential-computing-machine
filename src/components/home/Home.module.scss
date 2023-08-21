@@ -1,4 +1,4 @@
-@import "../../variables.modules";
+@import "../../style.scss";
 
 h1 {
   font-size: 2rem;
@@ -27,13 +27,8 @@ h2 {
   display: inline-block;
 }
 
-a {
-  color: $dark;
-  transition: color 200ms ease;
-}
 
 a:hover {
-  color: $lightgray;
   transition: color 200ms ease;
 }
 
